@@ -16,10 +16,9 @@ Check it out live: [https://yourusername.github.io/portfolio](https://contactras
 
 ## 🛠 Technologies
 
-
-HTML5 – for structure and content
-CSS3 – for styling and layout
-JavaScript – for interactivity and animations 
+- HTML5 – for structure and content
+- CSS3 – for styling and layout
+- JavaScript – for interactivity and animations 
 
 ## 🚀 Run Locally
 
